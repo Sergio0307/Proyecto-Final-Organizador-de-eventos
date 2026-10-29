@@ -93,7 +93,7 @@ Sección pendiente de completar con los requisitos específicos del proyecto (ve
 
 bash
 # Clonar el repositorio
-git clone <URL_DEL_REPOSITORIO>
+git clone <[URL_DEL_REPOSITORIO](https://github.com/Sergio0307/Proyecto-Final-Organizador-de-eventos)>
 
 # Acceder al directorio del proyecto
 cd cine-eventos-pro
